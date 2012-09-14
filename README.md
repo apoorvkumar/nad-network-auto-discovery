@@ -1,7 +1,7 @@
 -----------------------
 Developed by:- 
 
-Apoorva Kumar
+Apoorva Kumar\n
 Raj Kamal Singh
 Amit Kumar Swami
 
