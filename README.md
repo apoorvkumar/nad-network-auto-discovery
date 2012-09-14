@@ -1,9 +1,15 @@
------------------------
+-------------------------------
 Developed by:- 
 
-Apoorva Kumar\n
+Apoorva Kumar
 Raj Kamal Singh
 Amit Kumar Swami
+
+-----------------------
+
+
+
+
 
 -----------------------
 
