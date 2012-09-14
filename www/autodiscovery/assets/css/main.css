@@ -1,0 +1,30 @@
+/* 
+    Document   : main
+    Created on : 18 Apr, 2012, 11:00:50 AM
+    Author     : apoorv
+    Description:
+        Purpose of the stylesheet follows.
+*/
+/* COMMON ***************************************************************/
+.hidden{
+    display: none;
+}
+.center{
+    text-align: center;
+}
+.clear{
+    margin: 10px 0;
+}
+/* HEADER ***************************************************************/
+div#header{
+    background-color: darkseagreen;
+    text-align: center;
+}
+/* VIEW *****************************************************************/
+div#view{
+    min-height: 400px;
+}
+/* FOOTER ***************************************************************/
+div#footer{
+    background-color: pink;
+}

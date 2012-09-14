@@ -1,0 +1,9 @@
+<autodiscovery_config>
+	<config name="ipranges">
+		<range start="10.6.1.1" end="10.6.1.254" />
+		<range start="10.6.2.1" end="10.6.2.254" />
+		<range start="10.4.1.1" end="10.4.1.254" />
+		<range start="10.5.1.1" end="10.5.1.254" />
+	</config>
+	<config name="num_threads" value="25"></config>
+</autodiscovery_config>

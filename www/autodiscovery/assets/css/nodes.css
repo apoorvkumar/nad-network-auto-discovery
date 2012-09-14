@@ -1,0 +1,16 @@
+/* 
+    Document   : nodes
+    Created on : 14 May, 2012, 1:33:25 AM
+    Author     : apoorv
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+div#nodes-details > div{
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
