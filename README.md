@@ -1,19 +1,11 @@
 -------------------------------
 Developed by:- 
 
-Apoorva Kumar
-Raj Kamal Singh
-Amit Kumar Swami
+	Apoorva Kumar
+	Raj Kamal Singh
+	Amit Kumar Swami
 
 -----------------------
-
-
-
-
-
------------------------
-
-
 
 
 nad-network-auto-discovery-
